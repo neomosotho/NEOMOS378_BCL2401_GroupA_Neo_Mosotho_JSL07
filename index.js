@@ -29,11 +29,11 @@ document.addEventListener('DOMContentLoaded', function () {
       <h1> Certification of Achievement </h1>
         <h3> This is to certify that </h3>
        <h2> ${studentName} </h3>
-      <h3> has almost completed the </h3>
-      <h2> ${courseName} </h2>
-      <h3> with legendary perseverance and world-class bad-assery for never giving up </h3>
+        <h3> has almost completed the </h3>
+       <h2> ${courseName} </h2>
+        <h3> with legendary perseverance and world-class bad-assery for never giving up </h3>
       <img style="width:60%" src="logo.png" alt="logo image">
-      <h3> ${personalMessage} </h3>
+        <h3> ${personalMessage} </h3>
     `;
     
       //  Display the modal
